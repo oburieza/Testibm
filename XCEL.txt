@@ -1,0 +1,3 @@
+ISBLANK(cell)
+IF(ISBLANK(B2),true,false)
+=COUNTBLANK(F3:F5)
